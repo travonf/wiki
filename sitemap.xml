@@ -1,3 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://travonf.github.io/wiki/</loc>
+         <lastmod>2023-12-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://travonf.github.io/wiki/about/</loc>
+         <lastmod>2023-12-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://travonf.github.io/wiki/install/</loc>
+         <lastmod>2023-12-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://travonf.github.io/wiki/tutorial/</loc>
+         <lastmod>2023-12-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://travonf.github.io/wiki/usage/</loc>
+         <lastmod>2023-12-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://travonf.github.io/wiki/blog/</loc>
+         <lastmod>2023-12-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
